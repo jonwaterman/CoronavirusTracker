@@ -7047,3 +7047,348 @@ REGION                            	CONFIRMED	DECEASED	RECOVERED	SERIOUS
 
 ***** Global *****
 REGION                            	CONFIRMED	DECEASED	RECOVERED	SERIOUS
+
+2020-03-22 13:05:04.548818-05:00
+
+***** Global *****
+REGION                            	CONFIRMED	DECEASED	RECOVERED	SERIOUS	INC_CONF	%_INC_CONF	INC_DEAD	%_INC_DEAD
+TOTAL                              	333,030  	14,558   	97,340   	8,616    	0        	0        	0        	0        
+China                              	81,054   	3,261    	72,440   	2,314    	46       	0.05     	6        	0.00     
+Italy                              	59,138   	5,476    	7,024    	3,009    	5,560    	9.40     	651      	1.10     
+United States                      	38,211   	397      	186      	61       	13,940   	36.48    	94       	0.24     
+Spain                              	28,603   	1,756    	2,575    	1,141    	3,107    	10.86    	375      	1.31     
+Germany                            	24,806   	93       	266      	0        	2,350    	9.47     	8        	0.03     
+Iran                               	21,638   	1,685    	7,635    	0        	1,028    	4.75     	129      	0.59     
+France                             	14,459   	562      	1,587    	1,297    	0        	0        	0        	0        
+South Korea                        	8,897    	104      	2,909    	0        	0        	0        	0        	0        
+Switzerland                        	7,230    	85       	131      	0        	367      	5.07     	5        	0.06     
+United Kingdom                     	5,018    	281      	93       	20       	0        	0        	0        	0        
+Netherlands                        	4,204    	179      	2        	177      	573      	13.62    	43       	1.02     
+Belgium                            	3,401    	75       	263      	238      	586      	17.23    	8        	0.23     
+Austria                            	3,302    	16       	16       	0        	310      	9.38     	8        	0.24     
+Norway                             	2,263    	7        	6        	26       	99       	4.37     	0        	0        
+Sweden                             	1,934    	21       	16       	0        	161      	8.32     	1        	0.05     
+Denmark                            	1,510    	13       	3        	37       	69       	4.56     	0        	0        
+Australia                          	1,353    	7        	73       	0        	281      	20.76    	0        	0        
+Canada                             	1,426    	20       	15       	7        	98       	6.87     	1        	0.07     
+Portugal                           	1,600    	14       	5        	26       	320      	20       	2        	0.12     
+Malaysia                           	1,306    	10       	139      	37       	123      	9.41     	2        	0.15     
+Brazil                             	1,209    	18       	2        	1        	31       	2.56     	0        	0        
+Japan                              	1,086    	36       	235      	49       	32       	2.94     	0        	0        
+Czech Republic                     	1,120    	0        	6        	2        	125      	11.16    	0        	0        
+Turkey                             	947      	21       	0        	0        	0        	0        	0        	0        
+Israel                             	945      	1        	37       	15       	62       	6.56     	0        	0        
+Ireland                            	785      	3        	5        	0        	0        	0        	0        	0        
+Diamond Princess                   	712      	8        	567      	12       	0        	0        	0        	0        
+Luxembourg                         	798      	8        	6        	0        	128      	16.04    	0        	0        
+Pakistan                           	646      	3        	13       	0        	1        	0.15     	0        	0        
+Thailand                           	599      	1        	45       	8        	188      	31.38    	0        	0        
+Chile                              	632      	1        	8        	0        	95       	15.03    	0        	0        
+Poland                             	627      	7        	13       	2        	91       	14.51    	2        	0.31     
+Ecuador                            	789      	14       	3        	6        	257      	32.57    	7        	0.88     
+Greece                             	624      	15       	19       	18       	94       	15.06    	2        	0.32     
+Finland                            	626      	1        	10       	0        	103      	16.45    	0        	0        
+Qatar                              	481      	0        	27       	0        	0        	0        	0        	0        
+Iceland                            	568      	1        	5        	1        	95       	16.72    	0        	0        
+Indonesia                          	514      	48       	29       	0        	64       	12.45    	10       	1.94     
+Singapore                          	455      	2        	144      	14       	23       	5.05     	0        	0        
+Saudi Arabia                       	511      	0        	17       	0        	119      	23.28    	0        	0        
+Slovenia                           	414      	2        	0        	9        	31       	7.48     	1        	0.24     
+Romania                            	433      	2        	64       	3        	66       	15.24    	2        	0.46     
+India                              	396      	7        	24       	0        	64       	16.16    	2        	0.50     
+Peru                               	363      	5        	2        	16       	45       	12.39    	0        	0        
+Bahrain                            	332      	2        	149      	4        	22       	6.62     	1        	0.30     
+Philippines                        	380      	25       	15       	1        	73       	19.21    	6        	1.57     
+Estonia                            	326      	0        	4        	0        	20       	6.13     	0        	0        
+Russia                             	367      	1        	16       	0        	61       	16.62    	0        	0        
+Egypt                              	294      	10       	42       	0        	0        	0        	0        	0        
+Hong Kong                          	317      	4        	100      	4        	43       	13.56    	0        	0        
+Mexico                             	251      	2        	35       	5        	48       	19.12    	0        	0        
+Panama                             	245      	3        	1        	12       	0        	0        	0        	0        
+South Africa                       	240      	0        	2        	0        	0        	0        	0        	0        
+Argentina                          	225      	4        	27       	0        	67       	29.77    	0        	0        
+Iraq                               	233      	20       	57       	0        	19       	8.15     	3        	1.28     
+Colombia                           	231      	2        	3        	0        	35       	15.15    	2        	0.86     
+Lebanon                            	248      	4        	8        	2        	18       	7.25     	0        	0        
+Croatia                            	254      	1        	5        	0        	48       	18.89    	0        	0        
+Armenia                            	194      	0        	2        	0        	34       	17.52    	0        	0        
+Kuwait                             	188      	0        	30       	5        	12       	6.38     	0        	0        
+Slovakia                           	185      	1        	7        	0        	7        	3.78     	0        	0        
+Bulgaria                           	185      	3        	3        	0        	22       	11.89    	0        	0        
+Serbia                             	222      	2        	2        	1        	51       	22.97    	1        	0.45     
+San Marino                         	175      	20       	4        	12       	15       	8.57     	0        	0        
+United Arab Emirates               	153      	2        	38       	2        	0        	0        	0        	0        
+Taiwan                             	169      	2        	28       	0        	16       	9.46     	0        	0        
+Latvia                             	139      	0        	1        	0        	15       	10.79    	0        	0        
+Uruguay                            	135      	0        	2        	2        	25       	18.51    	0        	0        
+Hungary                            	131      	6        	16       	0        	28       	21.37    	2        	1.52     
+Costa Rica                         	117      	2        	2        	1        	0        	0        	0        	0        
+Dominican Republic                 	202      	3        	0        	0        	90       	44.55    	0        	0        
+Lithuania                          	131      	1        	1        	0        	30       	22.90    	0        	0        
+Algeria                            	201      	17       	65       	0        	62       	30.84    	2        	0.99     
+Jordan                             	100      	0        	1        	0        	0        	0        	0        	0        
+Morocco                            	109      	3        	3        	0        	13       	11.92    	0        	0        
+Bosnia                             	94       	1        	2        	0        	1        	1.06     	0        	0        
+Vietnam                            	113      	0        	17       	0        	19       	16.81    	0        	0        
+Andorra                            	113      	1        	1        	2        	25       	22.12    	1        	0.88     
+Cyprus                             	95       	1        	3        	0        	11       	11.57    	0        	0        
+Brunei                             	88       	0        	2        	2        	5        	5.68     	0        	0        
+Moldova                            	94       	1        	2        	0        	14       	14.89    	0        	0        
+Sri Lanka                          	82       	0        	3        	0        	5        	6.09     	0        	0        
+Albania                            	89       	2        	2        	3        	13       	14.60    	0        	0        
+North Macedonia                    	115      	1        	1        	0        	30       	26.08    	1        	0.86     
+Belarus                            	76       	0        	15       	0        	0        	0        	0        	0        
+Malta                              	90       	0        	2        	1        	17       	18.88    	0        	0        
+Venezuela                          	70       	0        	15       	2        	0        	0        	0        	0        
+New Zealand                        	67       	0        	0        	0        	14       	20.89    	0        	0        
+Burkina Faso                       	75       	4        	5        	0        	11       	14.66    	1        	1.33     
+Tunisia                            	75       	3        	1        	0        	15       	20       	2        	2.66     
+Kazakhstan                         	59       	0        	0        	0        	5        	8.47     	0        	0        
+Senegal                            	56       	0        	5        	0        	0        	0        	0        	0        
+Oman                               	55       	0        	17       	0        	3        	5.45     	0        	0        
+Georgia                            	600      	23       	3        	1        	45       	7.5      	9        	1.5      
+Palestine                          	59       	0        	17       	0        	6        	10.16    	0        	0        
+Cambodia                           	84       	0        	2        	0        	31       	36.90    	0        	0        
+Trinidad and Tobago                	50       	0        	0        	0        	1        	2        	0        	0        
+Ukraine                            	47       	3        	1        	0        	0        	0        	0        	0        
+Azerbaijan                         	65       	1        	11       	0        	12       	18.46    	0        	0        
+Liechtenstein                      	44       	0        	0        	0        	0        	0        	0        	0        
+Uzbekistan                         	43       	0        	0        	0        	2        	4.65     	0        	0        
+Cameroon                           	40       	0        	2        	0        	0        	0        	0        	0        
+Northern Cyprus                    	34       	0        	3        	0        	0        	0        	0        	0        
+Kosovo                             	31       	0        	0        	0        	0        	0        	0        	0        
+DR Congo                           	30       	1        	0        	0        	0        	0        	0        	0        
+Nigeria                            	30       	0        	3        	0        	8        	26.66    	0        	0        
+Honduras                           	26       	0        	0        	0        	2        	7.69     	0        	0        
+Cuba                               	35       	1        	2        	2        	14       	40       	0        	0        
+Bangladesh                         	27       	2        	3        	0        	3        	11.11    	0        	0        
+Afghanistan                        	34       	1        	1        	0        	10       	29.41    	1        	2.94     
+Paraguay                           	22       	1        	0        	1        	0        	0        	0        	0        
+Ghana                              	21       	1        	0        	0        	0        	0        	0        	0        
+Bolivia                            	24       	0        	0        	0        	5        	20.83    	0        	0        
+Jamaica                            	19       	1        	2        	0        	0        	0        	0        	0        
+Guatemala                          	17       	1        	0        	0        	0        	0        	0        	0        
+Macau                              	17       	0        	10       	0        	0        	0        	0        	0        
+Rwanda                             	17       	0        	0        	0        	0        	0        	0        	0        
+Mauritius                          	24       	2        	0        	0        	10       	41.66    	1        	4.16     
+Ivory Coast                        	14       	0        	1        	0        	0        	0        	0        	0        
+Montenegro                         	16       	0        	0        	0        	0        	0        	0        	0        
+Maldives                           	13       	0        	3        	0        	0        	0        	0        	0        
+Jersey                             	12       	0        	0        	0        	0        	0        	0        	0        
+Kyrgyzstan                         	14       	0        	0        	0        	0        	0        	0        	0        
+Monaco                             	18       	0        	1        	0        	0        	0        	0        	0        
+French Polynesia                   	15       	0        	0        	0        	0        	0        	0        	0        
+Gibraltar                          	15       	0        	2        	1        	5        	33.33    	0        	0        
+Mongolia                           	10       	0        	0        	0        	0        	0        	0        	0        
+Ethiopia                           	11       	0        	0        	0        	2        	18.18    	0        	0        
+Togo                               	16       	0        	1        	0        	0        	0        	0        	0        
+Kenya                              	15       	0        	0        	0        	8        	53.33    	0        	0        
+Seychelles                         	7        	0        	0        	1        	0        	0        	0        	0        
+Tanzania                           	12       	0        	0        	0        	6        	50       	0        	0        
+Equatorial Guinea                  	6        	0        	0        	0        	0        	0        	0        	0        
+Barbados                           	14       	0        	0        	0        	0        	0        	0        	0        
+Aruba                              	8        	0        	1        	0        	3        	37.5     	0        	0        
+Guyana                             	18       	1        	0        	0        	0        	0        	0        	0        
+Gabon                              	5        	1        	0        	0        	0        	0        	0        	0        
+Suriname                           	5        	0        	0        	0        	0        	0        	0        	0        
+New Caledonia                      	4        	0        	0        	0        	0        	0        	0        	0        
+Bahamas                            	4        	0        	0        	0        	0        	0        	0        	0        
+Cayman Islands                     	3        	1        	0        	0        	0        	0        	0        	0        
+Curaçao                            	3        	1        	0        	0        	0        	0        	0        	0        
+Congo Republic                     	3        	0        	0        	0        	0        	0        	0        	0        
+Namibia                            	3        	0        	0        	0        	0        	0        	0        	0        
+El Salvador                        	3        	0        	0        	0        	0        	0        	0        	0        
+Liberia                            	3        	0        	0        	0        	0        	0        	0        	0        
+Haiti                              	2        	0        	0        	0        	0        	0        	0        	0        
+Saint Lucia                        	2        	0        	0        	0        	0        	0        	0        	0        
+Greenland                          	2        	0        	0        	0        	0        	0        	0        	0        
+Guinea                             	2        	0        	0        	0        	0        	0        	0        	0        
+Mauritania                         	2        	0        	0        	0        	0        	0        	0        	0        
+Zambia                             	3        	0        	0        	0        	1        	33.33    	0        	0        
+Benin                              	2        	0        	0        	0        	0        	0        	0        	0        
+Bhutan                             	2        	0        	0        	0        	0        	0        	0        	0        
+Isle of Man                        	5        	0        	0        	0        	3        	60       	0        	0        
+Guernsey                           	2        	0        	0        	0        	0        	0        	0        	0        
+Sudan                              	2        	1        	0        	0        	0        	0        	0        	0        
+Nicaragua                          	2        	0        	0        	0        	0        	0        	0        	0        
+Fiji                               	2        	0        	0        	0        	0        	0        	0        	0        
+Niger                              	2        	0        	0        	0        	1        	50       	0        	0        
+Sint Maarten                       	1        	0        	0        	0        	0        	0        	0        	0        
+Chad                               	1        	0        	0        	0        	0        	0        	0        	0        
+Saint Vincent and the Grenadines   	1        	0        	0        	0        	0        	0        	0        	0        
+Djibouti                           	1        	0        	0        	0        	0        	0        	0        	0        
+Antigua and Barbuda                	1        	0        	0        	0        	0        	0        	0        	0        
+Montserrat                         	1        	0        	0        	0        	0        	0        	0        	0        
+Gambia                             	1        	0        	0        	0        	0        	0        	0        	0        
+Eswatini                           	4        	0        	0        	0        	3        	75       	0        	0        
+Somalia                            	1        	0        	0        	0        	0        	0        	0        	0        
+Central African Republic           	1        	0        	0        	0        	0        	0        	0        	0        
+Nepal                              	1        	0        	1        	0        	0        	0        	0        	0        
+Vatican City                       	1        	0        	0        	0        	0        	0        	0        	0        
+
+***** USA *****
+REGION                            	CONFIRMED	DECEASED	RECOVERED	SERIOUS	INC_CONF	%_INC_CONF	INC_DEAD	%_INC_DEAD
+TOTAL                              	38,211   	397      	186      	61       	13,940   	36.48    	94       	0.24     
+New York                           	22,717   	114      	0        	60       	12,345   	54.34    	58       	0.25     
+Washington                         	1,793    	96       	124      	0        	0        	0        	0        	0        
+California                         	1,550    	28       	6        	0        	159      	10.25    	4        	0.25     
+New Jersey                         	1,336    	16       	0        	0        	0        	0        	0        	0        
+Michigan                           	809      	8        	0        	0        	22       	2.71     	3        	0.37     
+Florida                            	830      	13       	0        	0        	171      	20.60    	1        	0.12     
+Louisiana                          	837      	20       	0        	0        	252      	30.10    	4        	0.47     
+Illinois                           	753      	6        	2        	0        	0        	0        	0        	0        
+Texas                              	614      	5        	11       	0        	94       	15.30    	0        	0        
+Georgia                            	600      	23       	3        	1        	45       	7.5      	9        	1.5      
+Massachusetts                      	529      	2        	1        	0        	4        	0.75     	1        	0.18     
+Pennsylvania                       	481      	4        	0        	0        	90       	18.71    	2        	0.41     
+Colorado                           	476      	6        	0        	0        	0        	0        	1        	0.21     
+Tennessee                          	374      	1        	0        	0        	3        	0.80     	0        	0        
+Wisconsin                          	322      	4        	1        	0        	41       	12.73    	0        	0        
+Ohio                               	250      	3        	0        	0        	3        	1.2      	0        	0        
+Connecticut                        	223      	5        	0        	0        	29       	13.00    	1        	0.44     
+Maryland                           	244      	3        	4        	0        	54       	22.13    	1        	0.40     
+North Carolina                     	322      	0        	0        	0        	76       	23.60    	0        	0        
+South Carolina                     	174      	3        	0        	0        	1        	0.57     	0        	0        
+Nevada                             	190      	2        	0        	0        	29       	15.26    	0        	0        
+Virginia                           	221      	3        	1        	0        	69       	31.22    	1        	0.45     
+Mississippi                        	207      	1        	0        	0        	66       	31.88    	0        	0        
+Oregon                             	137      	4        	0        	0        	0        	0        	0        	0        
+Minnesota                          	169      	1        	24       	0        	31       	18.34    	0        	0        
+Utah                               	136      	0        	0        	0        	0        	0        	0        	0        
+Alabama                            	138      	0        	0        	0        	13       	9.42     	0        	0        
+Indiana                            	202      	4        	0        	0        	73       	36.13    	1        	0.49     
+Arkansas                           	122      	0        	0        	0        	4        	3.27     	0        	0        
+Arizona                            	152      	2        	1        	0        	44       	28.94    	1        	0.65     
+District of Columbia               	102      	3        	0        	0        	25       	24.50    	0        	0        
+Missouri                           	90       	5        	0        	0        	16       	17.77    	2        	2.22     
+Maine                              	89       	0        	3        	0        	19       	21.34    	0        	0        
+Iowa                               	90       	0        	0        	0        	22       	24.44    	0        	0        
+Rhode Island                       	84       	0        	0        	0        	30       	35.71    	0        	0        
+New Hampshire                      	65       	0        	0        	0        	0        	0        	0        	0        
+Kansas                             	60       	2        	0        	0        	1        	1.66     	1        	1.66     
+New Mexico                         	57       	0        	0        	0        	0        	0        	0        	0        
+Kentucky                           	99       	3        	2        	0        	35       	35.35    	1        	1.01     
+Oklahoma                           	67       	2        	1        	0        	14       	20.89    	1        	1.49     
+Hawaii                             	48       	0        	0        	0        	0        	0        	0        	0        
+Nebraska                           	51       	0        	0        	0        	13       	25.49    	0        	0        
+Diamond Princess (repatriated)     	46       	0        	2        	0        	0        	0        	0        	0        
+Delaware                           	47       	0        	0        	0        	7        	14.89    	0        	0        
+Vermont                            	49       	2        	0        	0        	0        	0        	0        	0        
+Idaho                              	42       	0        	0        	0        	6        	14.28    	0        	0        
+North Dakota                       	28       	0        	0        	0        	0        	0        	0        	0        
+Montana                            	31       	0        	0        	0        	4        	12.90    	0        	0        
+Wyoming                            	24       	0        	0        	0        	1        	4.16     	0        	0        
+Grand Princess                     	21       	0        	0        	0        	0        	0        	0        	0        
+Puerto Rico                        	23       	1        	0        	0        	2        	8.69     	0        	0        
+Guam                               	27       	1        	0        	0        	12       	44.44    	1        	3.70     
+South Dakota                       	21       	1        	0        	0        	7        	33.33    	0        	0        
+Alaska                             	21       	0        	0        	0        	7        	33.33    	0        	0        
+West Virginia                      	12       	0        	0        	0        	1        	8.33     	0        	0        
+U.S. Virgin Islands                	6        	0        	0        	0        	0        	0        	0        	0        
+Wuhan (repatriated)                	3        	0        	0        	0        	0        	0        	0        	0        
+American Samoa                     	0        	0        	0        	0        	0        	0        	0        	0        
+Northern Mariana Islands           	0        	0        	0        	0        	0        	0        	0        	0        
+
+***** Europe *****
+REGION                            	CONFIRMED	DECEASED	RECOVERED	SERIOUS	INC_CONF	%_INC_CONF	INC_DEAD	%_INC_DEAD
+TOTAL                              	165,087  	8,654    	12,177   	6,022    	14,418   	8.73     	1,111    	0.67     
+Italy                              	59,138   	5,476    	7,024    	3,009    	5,560    	9.40     	651      	1.10     
+Spain                              	28,603   	1,756    	2,575    	1,141    	3,107    	10.86    	375      	1.31     
+Germany                            	24,806   	93       	266      	0        	2,350    	9.47     	8        	0.03     
+France                             	14,459   	562      	1,587    	1,297    	0        	0        	0        	0        
+Switzerland                        	7,230    	85       	131      	0        	367      	5.07     	5        	0.06     
+United Kingdom                     	5,018    	281      	93       	20       	0        	0        	0        	0        
+Netherlands                        	4,204    	179      	2        	177      	573      	13.62    	43       	1.02     
+Belgium                            	3,401    	75       	263      	238      	586      	17.23    	8        	0.23     
+Austria                            	3,302    	16       	16       	0        	310      	9.38     	8        	0.24     
+Norway                             	2,263    	7        	6        	26       	99       	4.37     	0        	0        
+Sweden                             	1,934    	21       	16       	0        	161      	8.32     	1        	0.05     
+Portugal                           	1,600    	14       	5        	26       	320      	20       	2        	0.12     
+Denmark                            	1,510    	13       	3        	37       	69       	4.56     	0        	0        
+Czech Republic                     	1,120    	0        	6        	2        	125      	11.16    	0        	0        
+Luxembourg                         	798      	8        	6        	0        	128      	16.04    	0        	0        
+Ireland                            	785      	3        	5        	0        	0        	0        	0        	0        
+Finland                            	626      	1        	10       	0        	103      	16.45    	0        	0        
+Greece                             	624      	15       	19       	18       	94       	15.06    	2        	0.32     
+Poland                             	627      	7        	13       	2        	91       	14.51    	2        	0.31     
+Romania                            	433      	2        	64       	3        	66       	15.24    	2        	0.46     
+Slovenia                           	414      	2        	0        	9        	31       	7.48     	1        	0.24     
+Estonia                            	326      	0        	4        	0        	20       	6.13     	0        	0        
+Croatia                            	254      	1        	5        	0        	48       	18.89    	0        	0        
+Serbia                             	222      	2        	2        	1        	51       	22.97    	1        	0.45     
+Bulgaria                           	185      	3        	3        	0        	22       	11.89    	0        	0        
+Slovakia                           	185      	1        	7        	0        	7        	3.78     	0        	0        
+San Marino                         	175      	20       	4        	12       	15       	8.57     	0        	0        
+Latvia                             	139      	0        	1        	0        	15       	10.79    	0        	0        
+Hungary                            	131      	6        	16       	0        	28       	21.37    	2        	1.52     
+Lithuania                          	131      	1        	1        	0        	30       	22.90    	0        	0        
+Cyprus                             	95       	1        	3        	0        	11       	11.57    	0        	0        
+Bosnia                             	94       	1        	2        	0        	1        	1.06     	0        	0        
+Malta                              	90       	0        	2        	1        	17       	18.88    	0        	0        
+Albania                            	89       	2        	2        	3        	13       	14.60    	0        	0        
+Belarus                            	76       	0        	15       	0        	0        	0        	0        	0        
+
+***** China *****
+REGION                            	CONFIRMED	DECEASED	RECOVERED	SERIOUS	INC_CONF	%_INC_CONF	INC_DEAD	%_INC_DEAD
+TOTAL                              	81,054   	3,261    	72,440   	2,279    	0        	0        	0        	0        
+Hubei province (includes Wuhan)    	67,800   	3,144    	59,432   	2,274    	0        	0        	0        	0        
+Guangdong province                 	1,407    	8        	1,329    	2        	0        	0        	0        	0        
+Henan province                     	1,272    	22       	1,250    	0        	0        	0        	0        	0        
+Zhejiang province                  	1,237    	1        	1,219    	1        	0        	0        	0        	0        
+Hunan province                     	1,018    	4        	1,014    	0        	0        	0        	0        	0        
+Beijing                            	512      	8        	398      	0        	0        	0        	0        	0        
+Shanghai                           	394      	4        	327      	2        	0        	0        	0        	0        
+Other regions                      	7,414    	70       	7,471    	0        	0        	0        	0        	0        
+
+***** Canada *****
+REGION                            	CONFIRMED	DECEASED	RECOVERED	SERIOUS	INC_CONF	%_INC_CONF	INC_DEAD	%_INC_DEAD
+TOTAL                              	1,318    	19       	15       	0        	0        	0        	0        	0        
+British Columbia                   	424      	10       	6        	0        	0        	0        	0        	0        
+Ontario                            	377      	3        	6        	0        	0        	0        	0        	0        
+Alberta                            	226      	1        	2        	0        	0        	0        	0        	0        
+Quebec                             	181      	5        	1        	0        	0        	0        	0        	0        
+Saskatchewan                       	44       	0        	0        	0        	0        	0        	0        	0        
+Nova Scotia                        	21       	0        	0        	0        	0        	0        	0        	0        
+Manitoba                           	19       	0        	0        	0        	0        	0        	0        	0        
+New Brunswick                      	17       	0        	0        	0        	0        	0        	0        	0        
+Newfoundland & Labrador            	6        	0        	0        	0        	0        	0        	0        	0        
+Prince Edward Island               	2        	0        	0        	0        	0        	0        	0        	0        
+Northwest Territories              	1        	0        	0        	0        	0        	0        	0        	0        
+Nunavut                            	0        	0        	0        	0        	0        	0        	0        	0        
+Yukon                              	0        	0        	0        	0        	0        	0        	0        	0        
+
+***** Australia *****
+REGION                            	CONFIRMED	DECEASED	RECOVERED	SERIOUS	INC_CONF	%_INC_CONF	INC_DEAD	%_INC_DEAD
+TOTAL                              	1,349    	7        	73       	5        	0        	0        	0        	0        
+New South Wales                    	533      	6        	4        	5        	0        	0        	0        	0        
+Victoria                           	296      	0        	51       	0        	0        	0        	0        	0        
+Queensland                         	259      	0        	8        	0        	0        	0        	0        	0        
+Western Australia                  	120      	1        	1        	0        	0        	0        	0        	0        
+South Australia                    	100      	0        	6        	0        	0        	0        	0        	0        
+Canberra (ACT)                     	19       	0        	0        	0        	0        	0        	0        	0        
+Tasmania                           	17       	0        	3        	0        	0        	0        	0        	0        
+Northern Territory                 	5        	0        	0        	0        	0        	0        	0        	0        
+External territories               	0        	0        	0        	0        	0        	0        	0        	0        
+Jervis Bay Territory               	0        	0        	0        	0        	0        	0        	0        	0        
+
+***** LatinAmerica *****
+REGION                            	CONFIRMED	DECEASED	RECOVERED	SERIOUS	INC_CONF	%_INC_CONF	INC_DEAD	%_INC_DEAD
+TOTAL                              	4,528    	57       	87       	46       	714      	15.76    	9        	0.19     
+Brazil                             	1,209    	18       	2        	1        	31       	2.56     	0        	0        
+Chile                              	632      	1        	8        	0        	95       	15.03    	0        	0        
+Ecuador                            	789      	14       	3        	6        	257      	32.57    	7        	0.88     
+Peru                               	363      	5        	2        	16       	45       	12.39    	0        	0        
+Mexico                             	251      	2        	35       	5        	48       	19.12    	0        	0        
+Panama                             	245      	3        	1        	12       	0        	0        	0        	0        
+Argentina                          	225      	4        	27       	0        	67       	29.77    	0        	0        
+Colombia                           	231      	2        	3        	0        	35       	15.15    	2        	0.86     
+Costa Rica                         	117      	2        	2        	1        	0        	0        	0        	0        
+Uruguay                            	135      	0        	2        	2        	25       	18.51    	0        	0        
+Dominican Republic                 	202      	3        	0        	0        	90       	44.55    	0        	0        
+Honduras                           	26       	0        	0        	0        	2        	7.69     	0        	0        
+Cuba                               	35       	1        	2        	2        	14       	40       	0        	0        
+Bolivia                            	24       	0        	0        	0        	5        	20.83    	0        	0        
+Paraguay                           	22       	1        	0        	1        	0        	0        	0        	0        
+Guatemala                          	17       	1        	0        	0        	0        	0        	0        	0        
+El Salvador                        	3        	0        	0        	0        	0        	0        	0        	0        
+Nicaragua                          	2        	0        	0        	0        	0        	0        	0        	0        
